@@ -1,0 +1,100 @@
+<hr class="new">
+
+<div class="container">
+    <font size="2"><p>Looking for the Zibbet Marketplace?<a href="#"><font color="#00b3b3">Its here-></font></a></p></font>
+</div>
+
+<nav class="navbar navbar-expand-sm bg-light navbar-light">
+  <div class="container">
+    <div class="navbar-header">
+      <img src="../assets/image/zibbet_app_copy_8 (2).png" height="50" width="100">
+    </div>
+    
+    <div class="dropdown">
+      <button class="btn btn-default dropdown-toggle" data-toggle= "dropdown">
+        Sales Channels<span class="caret"></span>
+      </button>
+      <ul class="dropdown-menu" >
+        <div class="row">
+          <div class="col-lg-1">
+              <img src="..\assets\image\download.png "  class="mr-2 mt-2 rounded-circle" height="50" width="50">
+            </div>
+            <div class="col-lg-11">
+        <li class="dropdown-header"><strong>Sell on Etsy</strong>
+        <p>The World's most Popular Creative Marketplace</p></li>
+        </div>
+        </div>
+        <li class="divider"></li>
+        <div class="row">
+            <div class="col-lg-1">
+                <img src="..\assets\image\download (1).png "  class="mr-2 mt-2 rounded-circle" height="50" width="50">
+                </div>
+                <div class="col-lg-11">
+        <li class="dropdown-header"><strong>Zibbet Marketplace</strong>
+          <br><p>Home to makers,artists and vintage collectors</p></li>
+          </div>
+          </div>
+          <li class="divider"></li>
+          <div class="row">
+              <div class="col-lg-1">
+                  <img src="..\assets\image\download (2).png"  class="mr-2 mt-2 rounded-circle" height="50" width="50">
+                  </div>
+                  <div class="col-lg-11">
+          <li class="dropdown-header"><strong>A.C.Moore Marketplace</strong>
+            <br><p>A handmade marketplace,exclusive to Zibbet</p></li>
+            </div>
+      </div>
+            <li class="divider"></li>
+            
+            <li class="dropdown-header"><img src="..\assets\image\gallery_hero_e6d39a1d-5f41-45ac-8a00-471e41e7b7fd.jpg"  class="mr-2 mt-2 rounded-circle" height="50" width="50"><strong>Stitch Websites</strong>
+              <br><p>Build a website that's as unique as you are</p></li>
+      </ul>
+    </div>
+    
+    <ul class="navbar-nav">
+      <li>Pricing</li>
+      </ul>
+      <ul class="navbar-nav">
+          <li>About</li>
+          </ul>
+      <div class="dropdown">
+          <button class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+           Resources<span class="caret"></span>
+          </button>
+          </div>
+        
+         <ul>
+           
+          <i class="glyphicon glyphicon-lock"></i>Log in &nbsp;
+         <button class="btn btn-danger">Get Started</button>
+        </ul>
+        
+    </div>
+  </nav>
+  <br>  <br>  <br>  <br>  <br>  <br>  
+  <div class="container" >
+<div class="container" >
+  <div class="row">
+    <div class="col-sm-6">
+        <div class="customdiv">
+          <br><br><br>
+            <h1 align="left"><strong>A better way to grow your creative business</strong></h1>
+            <p align="left">zibbet exists to help artists,makers and creative entrepreneirs 
+              sell more.Now you can list a product once,sell it everywhere and grow your sales faster</p>
+              <br> <br>
+              <form class="form-inline">
+              <div class=" form group">
+              <input type="text" class="form-control " placeholder="Enter your email address" >&nbsp;
+              <button class="btn btn-danger">Get Started</button>
+              </div>
+              </form>
+            </div>
+
+            <font size="2"><span class="text-info">Free 14-day trial.</span>No credit card required</font>
+
+      </div>
+    <div class="col-sm-6">
+     <img src="../assets/image/zipper.jpg">
+    </div>
+  </div>
+  </div>
